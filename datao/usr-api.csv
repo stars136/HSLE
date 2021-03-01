@@ -1,0 +1,925 @@
+﻿,uid,aid,usrname,aname
+0,45207,73,jsteenb2,Zillow
+1,45207,180,jsteenb2,Trulia
+2,45207,21325,jsteenb2,Agent Storm
+3,45209,34,dldzone,Yelp Fusion
+4,45209,44,dldzone,indeed
+5,45209,42,dldzone,Facebook Graph
+6,45209,188,dldzone,Stripe
+7,45209,17495,dldzone,Kraft Recipe
+8,45209,93,dldzone,Google Maps Places
+9,45209,172,dldzone,Weather Underground (Wunderground)
+10,45209,1337,dldzone,TimeZoneDb
+11,45209,18577,dldzone,Cloudinary
+12,45209,17165,dldzone,Friendpaste
+13,45241,469,ftfish,Gmail
+14,45241,1070,ftfish,BOT libre!
+15,45241,1072,ftfish,OECD Open Data
+16,45241,38,ftfish,Freebase
+17,45241,13627,ftfish,GrabzIt
+18,45241,13387,ftfish,NYPL Digital Collections
+19,45218,384,PHPinAZ,Uber
+20,45313,659,pirxpilot,NOAA Climate Data Online
+21,45316,327,planzap2012,Yipit
+22,45322,44,clarkantonius,indeed
+23,45323,22132,wisnu,Scopus
+24,45323,218,wisnu,Mendeley
+25,45323,512,wisnu,GreatSchools
+26,45323,18999,wisnu,MatchCollege
+27,45323,1593,wisnu,FatSecret Platform
+28,45323,19728,wisnu,Data.ed.gov
+29,45323,21229,wisnu,OCWSearch
+30,45323,19789,wisnu,Edupedia
+31,45323,22453,wisnu,I Heart Quotes
+32,45323,18912,wisnu,myCitiScape
+33,45333,418,sevir,FlightStats
+34,45335,646,korjik,QuickBlox
+35,45349,1562,francesl,AddThis Analytics
+36,45366,5,rg,Amazon Product Advertising
+37,45366,21326,rg,openfooty
+38,45371,807,tettra,World Time Engine
+39,45376,73,daveschappell,Zillow
+40,45376,6,daveschappell,Twilio
+41,45376,21606,daveschappell,Nextstop
+42,45376,1518,daveschappell,TeachStreet Classes and Courses
+43,45378,1349,chrisfreeland,Biodiversity Heritage Library
+44,45386,93,egilchri,Google Maps Places
+45,45387,21718,charlienumber7,Ericsson SMS Send and Receive
+46,45390,101,aaronpk,Tropo Scripting
+47,45390,20381,aaronpk,MapQuest Open Static Map
+48,45390,507,aaronpk,Geoloqi
+49,45390,402,aaronpk,SimpleGeo
+50,45390,20222,aaronpk,Hoptoad
+51,45391,95,lcosouza,Zazzle
+52,45420,68,JotPix,Bing Maps
+53,45430,8214,derlangemarkus,FundraisingBox
+54,45430,216,derlangemarkus,Twick.it
+55,45432,0,viorica89,Google Maps
+56,45441,188,rmarcd,Stripe
+57,45441,6,rmarcd,Twilio
+58,45441,21345,rmarcd,National Buyer Listing Service
+59,45441,805,rmarcd,AgentRank
+60,45441,21190,rmarcd,Postmark
+61,45441,529,rmarcd,Layar
+62,45441,22463,rmarcd,EchoSign
+63,45441,770,rmarcd,Hunch
+64,45441,21657,rmarcd,LiveWork
+65,45454,518,mattholl,Face.com
+66,45454,21974,mattholl,Ping the Semantic Web
+67,45454,21688,mattholl,T-ma-tic
+68,45455,25,narphorium,Wikipedia
+69,45455,100,narphorium,Google Fusion Tables
+70,45455,177,narphorium,CrunchBase
+71,45455,93,narphorium,Google Maps Places
+72,45455,114,narphorium,Thomson Reuters Open Calais
+73,45455,297,narphorium,True Knowledge
+74,45455,109,narphorium,DBpedia
+75,45455,335,narphorium,Factual v3
+76,45455,531,narphorium,Wolfram Alpha
+77,45455,38,narphorium,Freebase
+78,45456,0,etheriau,Google Maps
+79,45456,319,etheriau,RunKeeper Health Graph
+80,45456,735,etheriau,MapMyFitness
+81,45456,1665,etheriau,Microsoft HealthVault
+82,45485,21381,helioid,Helioid
+83,45488,43,lunatech3d,Google Earth
+84,45493,121,oliverhh,DonorsChoose
+85,45506,21298,daniel_halldin,Unlock
+86,45506,21494,daniel_halldin,WURFL
+87,45532,10806,floozyspeak,dpaste
+88,45532,10783,floozyspeak,CanvasJS
+89,45532,10791,floozyspeak,MonitorHotels Rate Shopping Data
+90,45532,10832,floozyspeak,Mozilla Web Audio JavaScript 
+91,45532,10798,floozyspeak,MODE
+92,45544,25,yoted,Wikipedia
+93,45544,75,yoted,Vimeo
+94,45544,4,yoted,Facebook
+95,45544,168,yoted,Groupon
+96,45544,2,yoted,YouTube
+97,45544,44,yoted,indeed
+98,45544,3,yoted,Flickr
+99,45544,289,yoted,Eventbrite
+100,45544,278,yoted,Bandsintown
+101,45544,306,yoted,Nestoria
+102,45586,579,demysc,Mapstraction
+103,45589,7,hugovk,Last.fm
+104,45622,529,fdqps,Layar
+105,45629,21281,mapiprop,Google Moderator
+106,45629,17612,mapiprop,Sunglass
+107,45629,1525,mapiprop,CitySourced
+108,45629,17602,mapiprop,Bobik
+109,45644,515,Rintaro,Yahoo Fantasy Sports
+110,45644,32,Rintaro,Google Base
+111,45645,21841,phyxx,Fupa Games
+112,45654,93,bookmarc,Google Maps Places
+113,45659,24,spv,GeoNames
+114,45659,530,spv,Amazon CloudWatch
+115,45659,275,spv,7digital
+116,45659,350,spv,Blip.fm
+117,45659,829,spv,DomainTools
+118,45659,19,spv,Yahoo Geocoding
+119,45659,22060,spv,Live Nation Event Data
+120,45659,159,spv,ClearForest Semantic Web Services1
+121,45659,770,spv,Hunch
+122,45683,21501,deperu,Whoozy Person Search
+123,45685,0,derigel,Google Maps
+124,45685,5,derigel,Amazon Product Advertising
+125,45685,554,derigel,Yandex
+126,45685,125,derigel,Evernote
+127,45687,534,dam,Norway Weather
+128,45698,21152,nimisis,SharedBookshelves
+129,45700,829,fliks,DomainTools
+130,45700,534,fliks,Norway Weather
+131,45701,93,sletoh,Google Maps Places
+132,45701,21268,sletoh,Associated Press
+133,45701,514,sletoh,Yahoo PlaceFinder
+134,45733,1,boalt,Twitter
+135,45770,1448,headup,SemantiNet Knowledge Graph
+136,45772,22413,plamere,Spotify Echo Nest
+137,45780,21673,rvn,VoiceForge
+138,45780,1484,rvn,Gigya
+139,45780,21912,rvn,Thumbnail Ninja
+140,45780,1561,rvn,Yahoo Spelling Suggestion
+141,45780,21410,rvn,speechapi
+142,45780,21360,rvn,WiseTrend OCR
+143,45780,287,rvn,Mobypicture
+144,45780,21767,rvn,udefn
+145,45780,21072,rvn,BotPlatform
+146,45780,21362,rvn,Ericsson Mobile Network Lookup
+147,45803,0,gorico13,Google Maps
+148,45836,9807,btetampa,Windy
+149,45836,207,btetampa,Expedia
+150,45846,19427,sdiama,BatchGeo
+151,45846,19395,sdiama,CheckIP
+152,45866,204,barthes,Finansportalen
+153,45921,268,urbansky,WebKnox Keywords
+154,45921,21005,urbansky,Nexus6Studio StockQuote
+155,46002,261,hamsterready,UrbanDictionary
+156,46129,431,manfmnantucket,Gruvr
+157,46129,20982,manfmnantucket,SimpleGeo Context
+158,46129,820,manfmnantucket,Kyte
+159,46129,22167,manfmnantucket,SimplePie Live
+160,46252,12454,meic,Cozi
+161,46252,976,meic,BBC Nitro
+162,46254,15336,wjselph,SmartSheet
+163,46254,165,wjselph,AT&T In-App Messaging
+164,46254,10749,wjselph,AT&T Webhooks Messaging Event Notification
+165,46270,17,thunsaker,Foursquare
+166,46270,130,thunsaker,Smugmug
+167,46272,18603,loginradius,LoginRadius
+168,46281,244,2ndmiracle,ChartLyrics Lyric
+169,46281,217,2ndmiracle,8coupons
+170,46281,716,2ndmiracle,RetailMeNot.com Community Ideas
+171,46281,1557,2ndmiracle,TheTVDB.com
+172,46281,108,2ndmiracle,MTV
+173,46281,748,2ndmiracle,Allogarage
+174,46281,22470,2ndmiracle,SeeqPod
+175,46281,20133,2ndmiracle,Yahoo Status
+176,46281,21699,2ndmiracle,3DArmory
+177,46301,1191,skram,ElderCare Locator
+178,46301,1,skram,Twitter
+179,46301,17234,skram,Eligible Health Insurance
+180,46301,17221,skram,HealthData.gov
+181,46301,101,skram,Tropo Scripting
+182,46301,22415,skram,Apple iCloud
+183,46301,774,skram,Brightcove
+184,46301,18768,skram,AT&T mHealth Platform
+185,46301,15594,skram,TextRazor
+186,46301,21562,skram,Global Giving
+187,46304,1209,iirving,TwitchTV
+188,46304,2,iirving,YouTube
+189,46304,1,iirving,Twitter
+190,46304,11573,iirving,YouTube Data
+191,46304,12547,iirving,YouTube Live Streaming
+192,46314,21722,akYip,UN Data
+193,46314,22424,akYip,WeatherBug
+194,46314,1549,akYip,Business.gov
+195,46314,21512,akYip,Domainr
+196,46319,730,bubbasmith,Social Archive
+197,46321,21015,Kedume,Idescat Municipality in Figures
+198,46324,486,mjongerius,Bol.com Open
+199,46330,717,jeremiah,Plancast
+200,46330,707,jeremiah,awe.sm
+201,46340,5364,tanyagupta,Contextual Web Search
+202,46343,333,makenai,Zappos
+203,46353,274,garybury,Clockwork SMS
+204,46363,1416,evanjacobs,Nike Plus
+205,46363,20388,evanjacobs,OneBusAway
+206,46365,70,pavel,Fitbit
+207,46376,19052,onigetoc,Spotify Apps
+208,46376,7632,onigetoc,EtMDB
+209,46378,515,choiks14,Yahoo Fantasy Sports
+210,46378,53,choiks14,Upcoming.org
+211,46384,22425,jlulich,Grooveshark
+212,46385,21501,sachinrekhi,Whoozy Person Search
+213,46386,96,jrenkel,Weather Channel
+214,46386,195,jrenkel,Yahoo Weather
+215,46386,1546,jrenkel,AccuWeather
+216,46386,194,jrenkel,World Weather Online
+217,46386,141,jrenkel,NOAA National Weather Service (NWS) NDFD SOAP
+218,46386,21177,jrenkel,WeatherBug GEO
+219,46393,19969,sayemislam,StockTwits
+220,46398,424,mrwersa,Dipity
+221,46402,81,FotoFuze,Etsy
+222,46414,103,renatosampaio,MSN Messenger
+223,46437,1538,josephfung,Tribe HR
+224,46437,1558,josephfung,PostRank Data Mining
+225,46445,178,7mary4,COLOURlovers
+226,46445,769,7mary4,Global Biodiversity Information Facility 
+227,46445,341,7mary4,TripIt
+228,46445,22404,7mary4,Yahoo BOSS
+229,46445,38,7mary4,Freebase
+230,46445,516,7mary4,Intel CPU
+231,46445,21614,7mary4,Muselia
+232,46445,21250,7mary4,Stickybits
+233,46445,21309,7mary4,Factery
+234,46445,21517,7mary4,theFilthylist.com
+235,46446,21245,hsztul,Blurb
+236,46446,21410,hsztul,speechapi
+237,46448,52,aristoworks,geocoder
+238,46448,417,aristoworks,Yes Broadcast DB
+239,46448,1645,aristoworks,Tiny GeoCoder
+240,46448,309,aristoworks,Ontok
+241,46448,22144,aristoworks,RadioSherpa
+242,46453,21386,eco_bach,Bueda
+243,46453,21433,eco_bach,Beanstalk
+244,46456,5,shamekh,Amazon Product Advertising
+245,46456,74,shamekh,TwitPic
+246,46467,21228,boxjeremyg,E*TRADE
+247,46484,273,marcmezzacca,Google Shopping Search
+248,46484,711,marcmezzacca,Google Shopping Content
+249,46496,6,jeffiel,Twilio
+250,46496,1579,jeffiel,Cloudvox
+251,46503,19616,sflinter,BookingSync
+252,46507,21725,canadaka,Spreadshirt
+253,46508,30,dharmeshs,LinkedIn
+254,46508,1,dharmeshs,Twitter
+255,46514,21647,girlie_mac,BigOven Recipe
+256,46514,31,girlie_mac,Bing
+257,46514,22360,girlie_mac,Mint
+258,46514,1592,girlie_mac,Cheezburger
+259,46514,22458,girlie_mac,Brightkite
+260,46514,1510,girlie_mac,Campfire
+261,46525,30,elness,LinkedIn
+262,46525,4,elness,Facebook
+263,46525,2,elness,YouTube
+264,46525,1,elness,Twitter
+265,46525,3,elness,Flickr
+266,46525,28,elness,Digg
+267,46525,86,elness,MySpace
+268,46525,8,elness,eBay
+269,46530,351,hopperomatic,NPR One Station Finder
+270,46532,21820,xclricky,Chinese Seal Chop Image
+271,46545,30,tijmen,LinkedIn
+272,46545,4,tijmen,Facebook
+273,46545,1,tijmen,Twitter
+274,46545,342,tijmen,TwitterCounter
+275,46545,21248,tijmen,Pdfcrowd
+276,46545,345,tijmen,Hyves
+277,46558,18079,goldenv,ABBYY Cloud OCR
+278,46560,1604,aesthetictheory,twt.fm
+279,46572,21615,pengwynn,Vidly
+280,46575,4,iancorbin,Facebook
+281,46575,27,iancorbin,Amazon EC2
+282,46575,22404,iancorbin,Yahoo BOSS
+283,46575,38,iancorbin,Freebase
+284,46575,21904,iancorbin,NextDB
+285,46575,29,iancorbin,Technorati
+286,46575,202,iancorbin,Dapper
+287,46575,1721,iancorbin,dopplr
+288,46575,227,iancorbin,Pownce
+289,46575,21908,iancorbin,RateItAll
+290,46577,773,beardscratcher,Amplify
+291,46577,21764,beardscratcher,Gigulate
+292,46577,22021,beardscratcher,Huddle
+293,46585,700,greg.tracy,SMSMyBus
+294,46588,22442,funkyboy,IP Location
+295,46596,0,Gamaroff,Google Maps
+296,46603,2997,apigenius,ApiGenius Videos
+297,46604,467,guspersson,Spotify Web
+298,46604,15238,guspersson,Statistics Sweden
+299,46619,240,stabiilize,Dailymotion
+300,46625,18058,DocFlay,Mgnet.me shortener
+301,46625,22284,DocFlay,Winamp
+302,46625,18280,DocFlay,Tastebuds.fm
+303,46625,15510,DocFlay,The Mod Archive
+304,46625,19659,DocFlay,Metallizer
+305,46636,1404,richseam,Skimlinks Link Monetization
+306,46645,761,suatatan,Whois
+307,46660,22187,bestbuys,Bountii Price Search
+308,46660,8,bestbuys,eBay
+309,46660,1743,bestbuys,Direct Textbook
+310,46660,21988,bestbuys,ShopWindow
+311,46660,22454,bestbuys,Kelkoo
+312,46698,12,JurgenBrandse,del.icio.us
+313,46698,1521,JurgenBrandse,Transparency Data
+314,46712,3,buffstuff,Flickr
+315,46712,59,buffstuff,Google Picasa
+316,46712,126,buffstuff,Photobucket
+317,46712,291,buffstuff,Zooomr
+318,46713,22050,zang0,Lonely Planet
+319,46713,531,zang0,Wolfram Alpha
+320,46715,230,dstudiodesign,Yahoo Site Explorer
+321,46720,25,smallpile,Wikipedia
+322,46720,80,smallpile,Yahoo Answers
+323,46720,21845,smallpile,Giant Bomb
+324,46720,22270,smallpile,Answerbag
+325,46720,37,smallpile,Yahoo Image Search
+326,46720,22456,smallpile,GamesRadar
+327,46720,1707,smallpile,Doba SOAP
+328,46720,21769,smallpile,Hexillion Whois
+329,46727,741,dick_nl,Google Storage
+330,46761,7285,funkytaco,Intrinio TipRanks News Sentiment
+331,46859,73,dugrocker,Zillow
+332,46859,72,dugrocker,Netflix
+333,46859,7,dugrocker,Last.fm
+334,46859,1680,dugrocker,Beer Mapping
+335,46859,582,dugrocker,ISBN db
+336,46859,32,dugrocker,Google Base
+337,46859,55,dugrocker,MusicBrainz
+338,46859,109,dugrocker,DBpedia
+339,46859,169,dugrocker,Forvo
+340,46859,516,dugrocker,Intel CPU
+341,46868,318,nhoizey,500px
+342,46868,21148,nhoizey,Tellmewhere
+343,46869,22050,kudzai,Lonely Planet
+344,46869,1549,kudzai,Business.gov
+345,46869,20435,kudzai,Wikimapia
+346,46869,529,kudzai,Layar
+347,46869,21447,kudzai,Openly Local
+348,46869,21461,kudzai,World Government Data
+349,46869,21202,kudzai,IQ Engines
+350,46873,21716,LisaT,Ericsson Mobile Maps
+351,46884,0,maikelgonzalez,Google Maps
+352,46884,5,maikelgonzalez,Amazon Product Advertising
+353,46884,90,maikelgonzalez,OpenStreetMap
+354,46884,4,maikelgonzalez,Facebook
+355,46884,2,maikelgonzalez,YouTube
+356,46884,1,maikelgonzalez,Twitter
+357,46884,3,maikelgonzalez,Flickr
+358,46884,80,maikelgonzalez,Yahoo Answers
+359,46884,8,maikelgonzalez,eBay
+360,46884,27,maikelgonzalez,Amazon EC2
+361,46906,211,catogeorge,Klout
+362,46906,531,catogeorge,Wolfram Alpha
+363,46906,339,catogeorge,Yahoo Placemaker
+364,46906,21916,catogeorge,OpenEco
+365,46906,399,catogeorge,Topsy
+366,46906,737,catogeorge,Mapfluence
+367,46906,234,catogeorge,23
+368,46906,21173,catogeorge,Mombo
+369,46906,1507,catogeorge,Ookaboo
+370,46937,0,etrigg,Google Maps
+371,46937,25,etrigg,Wikipedia
+372,46937,90,etrigg,OpenStreetMap
+373,46937,4,etrigg,Facebook
+374,46937,7,etrigg,Last.fm
+375,46937,289,etrigg,Eventbrite
+376,46937,278,etrigg,Bandsintown
+377,46937,1431,etrigg,SeatGeek
+378,46937,272,etrigg,Active.com
+379,46937,1640,etrigg,Venteria
+380,46939,383,brano,WooCommerce
+381,46939,1169,brano,Sendy
+382,46952,20280,stevefal,Interpair
+383,46955,87,Abraar,Google Plus
+384,46957,191,samwize,Vonage Nexmo SMS
+385,46957,154,samwize,Hoiio Voice
+386,46957,215,samwize,Hoiio SMS
+387,46958,4,instantautomatic,Facebook
+388,46961,31,arjitmalviya,Bing
+389,46966,44,dariob,indeed
+390,46966,45,dariob,Eventful
+391,46966,278,dariob,Bandsintown
+392,46966,724,dariob,Qwerly
+393,46966,1495,dariob,TVRage
+394,46966,431,dariob,Gruvr
+395,46966,20901,dariob,DataSift REST
+396,46966,21592,dariob,Samepoint Real-Time Social Media
+397,46966,1696,dariob,DandyId
+398,46966,21497,dariob,PostRank Real-Time Content
+399,46967,4,sarmstrongmusic,Facebook
+400,46967,1585,sarmstrongmusic,Wine.com
+401,46975,53,vankov1,Upcoming.org
+402,46982,512,mkocher,GreatSchools
+403,46982,22452,mkocher,Education.com
+404,46982,21835,mkocher,GOP.gov
+405,46984,1571,ollie,Retro Avatar
+406,46995,288,ringful,Ringful
+407,47017,1199,shipstation,ShipStation
+408,47024,54,cloudconversion,PayPal
+409,47024,131,cloudconversion,Magento SOAP
+410,47024,8,cloudconversion,eBay
+411,47024,145,cloudconversion,Best Buy Products
+412,47024,503,cloudconversion,ChannelAdvisor
+413,47024,41,cloudconversion,Salesforce
+414,47024,21011,cloudconversion,PayPal Adaptive Payments
+415,47029,5,fiwiapps,Amazon Product Advertising
+416,47029,15651,fiwiapps,Trovit
+417,47029,21635,fiwiapps,Lemonfree
+418,47029,66,fiwiapps,Oodle
+419,47031,5,ebaum,Amazon Product Advertising
+420,47057,736,razorlegacy,Adility
+421,47057,1509,razorlegacy,Embedly
+422,47063,43,justinfarrell1969,Google Earth
+423,47096,18128,cantiere,Wishpot Social Commerce
+424,47117,77,bdoerrfeld,Skype
+425,47117,18855,bdoerrfeld,Ow.ly
+426,47117,17322,bdoerrfeld,U.K National Grid Energy Flow
+427,47117,20388,bdoerrfeld,OneBusAway
+428,47117,388,bdoerrfeld,Walgreens QuickPrints
+429,47117,20605,bdoerrfeld,Ecolabel Index
+430,47117,19218,bdoerrfeld,Klarna
+431,47117,1243,bdoerrfeld,TestFlight
+432,47117,22435,bdoerrfeld,ProgrammableWeb
+433,47117,20097,bdoerrfeld,Greencheck
+434,47119,335,schumann,Factual v3
+435,47119,1271,schumann,Infogroup Infoconnect
+436,47124,278,geoff_simpson,Bandsintown
+437,47124,1371,geoff_simpson,FanBridge
+438,47124,389,geoff_simpson,Plivo
+439,47125,6,lancefisher,Twilio
+440,47126,124,thinkingserious,SendGrid
+441,47126,18708,thinkingserious,SendGrid SMTP
+442,47130,403,tjlytle,Biblia.com
+443,47130,734,tjlytle,Google Prediction
+444,47130,1781,tjlytle,Living Stones
+445,47130,21078,tjlytle,Complexity Intelligence Part Of Speech Tagging
+446,47130,21092,tjlytle,Transloadit
+447,47130,21170,tjlytle,AlertGrid
+448,47143,246,bshaffer,WatchMouse
+449,47151,20432,JonMarkGo,Lemonade Stand
+450,47152,6,grigory,Twilio
+451,47153,17,andrewwatson,Foursquare
+452,47153,6,andrewwatson,Twilio
+453,47153,1579,andrewwatson,Cloudvox
+454,47153,21116,andrewwatson,SearchUPC.com
+455,47153,18678,andrewwatson,Amazon SWF
+456,47153,21226,andrewwatson,Pizza-Rat Restaurant Health
+457,47153,19606,andrewwatson,Flipzu
+458,47153,1489,andrewwatson,MapQuest Open Directions
+459,47156,249,deriddler,Billboard
+460,47169,71,savelee,Spotify Metadata
+461,47169,21637,savelee,Cleanify
+462,47180,1582,cloudspeakers,Cloudspeakers
+463,47183,0,ebotunes,Google Maps
+464,47183,7,ebotunes,Last.fm
+465,47183,3,ebotunes,Flickr
+466,47183,22,ebotunes,Google Chart
+467,47183,88,ebotunes,Google Static Maps
+468,47183,173,ebotunes,Guardian
+469,47183,82,ebotunes,LyricWiki
+470,47183,21460,ebotunes,setlist.fm
+471,47183,292,ebotunes,MOO
+472,47185,17061,xhochy,Shuffler.fm
+473,47185,1532,xhochy,We Are Hunted
+474,47189,7,robw33,Last.fm
+475,47189,350,robw33,Blip.fm
+476,47189,22315,robw33,MusicDNS.org
+477,47189,443,robw33,SNOCAP
+478,47189,22330,robw33,Tunelog
+479,47189,845,robw33,MusicMobs
+480,47189,22413,robw33,Spotify Echo Nest
+481,47189,22432,robw33,Lyricsfly
+482,47199,35,jmslau,Shopping.com
+483,47199,98,jmslau,Yahoo Shopping
+484,47199,166,jmslau,Pinterest Domain
+485,47206,8,srishivananda,eBay
+486,47236,20412,amalinow,Guerrilla Mail
+487,47242,5,vietanh,Amazon Product Advertising
+488,47242,2,vietanh,YouTube
+489,47246,178,visualrinse,COLOURlovers
+490,47246,156,visualrinse,GovTrack.us
+491,47246,557,visualrinse,We Feel Fine
+492,47274,127,alogan,Google Contacts
+493,47290,296,mlaaker,Google Social Graph
+494,47290,20902,mlaaker,Geni
+495,47290,19247,mlaaker,PubEasy
+496,47290,19239,mlaaker,Ping-uin
+497,47290,19332,mlaaker,OpenGovernment
+498,47331,93,brendanking,Google Maps Places
+499,47331,305,brendanking,Alexa Top Sites
+500,47331,1472,brendanking,TweetSentiments
+501,47331,21321,brendanking,Placecast
+502,47331,221,brendanking,GetGlue
+503,47331,21952,brendanking,Praized
+504,47331,21356,brendanking,smartRealm SNAP
+505,47332,65,Henrik,SoundCloud
+506,47336,22471,sevengo,Yahoo Updates
+507,47336,1607,sevengo,Buildasearch
+508,47336,179,sevengo,Fire Eagle
+509,47339,18201,kristineford,Crisply
+510,47340,17,naveen,Foursquare
+511,47340,20117,naveen,foursquare Merchant
+512,47341,70,hrrkii,Fitbit
+513,47341,250,hrrkii,Janrain Engage
+514,47342,4,dluxemburg,Facebook
+515,47342,1,dluxemburg,Twitter
+516,47342,17,dluxemburg,Foursquare
+517,47342,83,dluxemburg,Tumblr
+518,47342,21,dluxemburg,Amazon S3
+519,47342,57,dluxemburg,Bit.ly
+520,47342,27,dluxemburg,Amazon EC2
+521,47342,196,dluxemburg,Amazon SimpleDB
+522,47342,22085,dluxemburg,Slicehost SliceManager
+523,47347,20,edub008,DocuSign Enterprise
+524,47361,21151,dkohler,WeoGeo
+525,47382,167,ScottCSmith,Mapbox
+526,47387,25,phauly,Wikipedia
+527,47388,55,insign,MusicBrainz
+528,47388,22425,insign,Grooveshark
+529,47398,54,jvoss,PayPal
+530,47398,827,jvoss,Rakuten
+531,47398,12,jvoss,del.icio.us
+532,47398,20,jvoss,DocuSign Enterprise
+533,47398,435,jvoss,AMEE
+534,47398,27,jvoss,Amazon EC2
+535,47398,585,jvoss,Syndic8
+536,47398,1686,jvoss,Get Satisfaction
+537,47398,22435,jvoss,ProgrammableWeb
+538,47398,22146,jvoss,Springnote
+539,47402,21760,wordsfinder,Wordsfinder Keywords Extractor
+540,47406,384,jtwalters25,Uber
+541,47406,45,jtwalters25,Eventful
+542,47406,1038,jtwalters25,LinkedIn People Search 
+543,47406,729,jtwalters25,Brighter Planet CM1
+544,47406,213,jtwalters25,Meetup
+545,47406,446,jtwalters25,Follow The Money
+546,47406,14711,jtwalters25,Washington State Department of Transportation
+547,47416,10,angelside,Twilio SMS
+548,47416,1447,angelside,jsFiddle
+549,47416,17,angelside,Foursquare
+550,47416,31,angelside,Bing
+551,47416,13,angelside,Yahoo Search
+552,47416,21553,angelside,IPInfoDB Fraud Detection
+553,47416,21298,angelside,Unlock
+554,47416,21472,angelside,Stop Forum Spam
+555,47416,115,angelside,hostip.info
+556,47416,22448,angelside,Blogama (IPInfoDB)
+557,47418,96,eburhan,Weather Channel
+558,47418,3,eburhan,Flickr
+559,47418,13,eburhan,Yahoo Search
+560,47418,60,eburhan,FeedBurner
+561,47418,22252,eburhan,HTML2PDF
+562,47418,1778,eburhan,W3Counter
+563,47418,115,eburhan,hostip.info
+564,47418,22371,eburhan,Tagyu
+565,47418,368,eburhan,WebThumb
+566,47418,22205,eburhan,Undisposable
+567,47442,84,bibirmer,Shopzilla
+568,47449,27,shopsgenius,Amazon EC2
+569,47449,51,shopsgenius,Commission Junction
+570,47461,21501,thimon,Whoozy Person Search
+571,47461,531,thimon,Wolfram Alpha
+572,47461,1651,thimon,Swoogle
+573,47463,101,tropo,Tropo Scripting
+574,47478,80,tcw026,Yahoo Answers
+575,47478,19009,tcw026,MTA Bus Time
+576,47488,22444,tangc,FlightView
+577,47493,22214,ravipathak,Baynote
+578,47511,51,maketop,Commission Junction
+579,47514,0,gya,Google Maps
+580,47514,25,gya,Wikipedia
+581,47514,4,gya,Facebook
+582,47514,2,gya,YouTube
+583,47514,54,gya,PayPal
+584,47514,1674,gya,World Bank Indicators
+585,47514,8,gya,eBay
+586,47514,437,gya,Amazon Flexible Payments Service
+587,47514,22182,gya,Amazon DevPay License Service
+588,47514,782,gya,Moneybookers
+589,47521,13209,ccjeng,ReliefWeb
+590,47521,12788,ccjeng,Stock Quote
+591,47521,18856,ccjeng,Bloomberg
+592,47521,17618,ccjeng,Seismic Data Portal
+593,47521,12790,ccjeng,Company Lookup
+594,47521,12950,ccjeng,Barchart OnDemand getQuote
+595,47521,17238,ccjeng,Sigimera
+596,47521,17367,ccjeng,RestFul Web Services Financial
+597,47521,13024,ccjeng,CrisisNET
+598,47521,19969,ccjeng,StockTwits
+599,47522,4,LouCypher,Facebook
+600,47522,2,LouCypher,YouTube
+601,47522,3,LouCypher,Flickr
+602,47522,12,LouCypher,del.icio.us
+603,47522,1794,LouCypher,Qurl
+604,47522,29,LouCypher,Technorati
+605,47522,374,LouCypher,Ma.gnolia
+606,47522,376,LouCypher,Plaxo
+607,47522,1796,LouCypher,Simpy
+608,47530,4,muralibasa,Facebook
+609,47530,1,muralibasa,Twitter
+610,47535,0,matagus,Google Maps
+611,47535,5,matagus,Amazon Product Advertising
+612,47535,4,matagus,Facebook
+613,47535,1,matagus,Twitter
+614,47535,7,matagus,Last.fm
+615,47535,3,matagus,Flickr
+616,47535,55,matagus,MusicBrainz
+617,47535,21,matagus,Amazon S3
+618,47535,12,matagus,del.icio.us
+619,47535,38,matagus,Freebase
+620,47542,1363,balewis4,D&B Direct
+621,47546,526,ahmetalpbalkan,Google Sites
+622,47546,1568,ahmetalpbalkan,htm2pdf
+623,47546,21644,ahmetalpbalkan,Yebol
+624,47546,21525,ahmetalpbalkan,Get Favicon
+625,47546,755,ahmetalpbalkan,anything2pdf
+626,47546,1566,ahmetalpbalkan,AlchemyAPI Text Categorization
+627,47546,21589,ahmetalpbalkan,FlightCaster
+628,47546,21588,ahmetalpbalkan,Yahoo Meme
+629,47546,21450,ahmetalpbalkan,MutluSMS
+630,47546,21577,ahmetalpbalkan,AlchemyAPI Language Detection
+631,47549,1663,alleyrubadeau,MapMyRun
+632,47550,178,jveldboom,COLOURlovers
+633,47565,1,GraGra33,Twitter
+634,47565,3,GraGra33,Flickr
+635,47565,22,GraGra33,Google Chart
+636,47565,54,GraGra33,PayPal
+637,47565,81,GraGra33,Etsy
+638,47565,57,GraGra33,Bit.ly
+639,47565,23,GraGra33,Google AdSense
+640,47565,8,GraGra33,eBay
+641,47565,48,GraGra33,Google AdWords 
+642,47565,51,GraGra33,Commission Junction
+643,47568,84,endriu63,Shopzilla
+644,47571,89,widgetmaster,imageLoop
+645,47575,168,bill,Groupon
+646,47575,1,bill,Twitter
+647,47575,22404,bill,Yahoo BOSS
+648,47575,355,bill,Google Book Search Book Viewability
+649,47576,92,connector@imwal...,Dropbox
+650,47576,980,connector@imwal...,OneDrive
+651,47576,11203,connector@imwal...,Office 365 Video
+652,47584,22455,cmatthieu,Nodester
+653,47586,72,brechiredu,Netflix
+654,47586,11,brechiredu,Microsoft Bing Maps
+655,47586,236,brechiredu,CoinDesk
+656,47586,21287,brechiredu,Recipe Puppy
+657,47586,12525,brechiredu,Indian Railway
+658,47586,9949,brechiredu,FoodFacts
+659,47586,605,brechiredu,Walgreens Balance Rewards
+660,47588,409,xhotelsnet,sletoh.com
+661,47588,17379,xhotelsnet,Travelope
+662,47588,21959,xhotelsnet,to.uri.st
+663,47595,2,qbolton,YouTube
+664,47595,286,qbolton,The New York Times Best Sellers
+665,47595,22362,qbolton,NewsIsFree
+666,47595,351,qbolton,NPR One Station Finder
+667,47595,21168,qbolton,USA Today
+668,47595,20501,qbolton,USA Today Book Reviews
+669,47595,20500,qbolton,USA Today Movie Reviews
+670,47610,65,rcaceres,SoundCloud
+671,47610,119,rcaceres,Rhapsody
+672,47612,886,pdfgeneratorapi,PDF Generator
+673,47613,7121,Alex-Skorohodov,Kosmos eSync Connect
+674,47617,9943,Ruslan_Savchyshyn,API2Task
+675,47617,10649,Ruslan_Savchyshyn,Data2CRM
+676,47617,21280,Ruslan_Savchyshyn,Cart2Cart
+677,47618,20376,jasonlriley,Open Charge Map
+678,47618,270,jasonlriley,Genability
+679,47618,21746,jasonlriley,3TIER
+680,47618,20513,jasonlriley,WattzOn
+681,47618,20875,jasonlriley,Wattvision
+682,47618,21361,jasonlriley,Google PowerMeter
+683,47620,22389,mattfuzzyai,Fuzzy.ai
+684,47630,1,brigitteen,Twitter
+685,47630,1690,brigitteen,Watchdog
+686,47630,138,brigitteen,Google Documents List
+687,47632,744,jsplashindia,JoyRack Games
+688,47645,9897,clickincity,Family Watchdog Sex Offender
+689,47645,9993,clickincity,Google Travel Partner
+690,47645,6,clickincity,Twilio
+691,47645,1691,clickincity,43 Places
+692,47645,1264,clickincity,Healthfinder.gov
+693,47645,11042,clickincity,U.S. Department of Labor Quarry
+694,47645,18296,clickincity,Desk.com
+695,47668,17426,touristica,ReLink
+696,47669,1685,asiyatravelsonline,Cleartrip
+697,47669,184,asiyatravelsonline,Yahoo Travel
+698,47669,510,asiyatravelsonline,Travelport
+699,47671,10016,Godnik,Google Trends
+700,47671,187,Godnik,OpenWeatherMap
+701,47673,470,coderholic,ipinfo.io IP geolocation
+702,47673,3555,coderholic,IPinfo.io Hosted Domains
+703,47673,3553,coderholic,IPinfo.io ASN
+704,47673,3179,coderholic,IPinfo.io IP to carrier
+705,47673,3557,coderholic,IPinfo.io IP Address Ranges
+706,47681,197,Danguilherme,Discogs
+707,47681,3976,Danguilherme,TheAudioDB
+708,47681,3862,Danguilherme,TasteDive
+709,47681,22385,Danguilherme,Freedb / CDDB
+710,47694,4,leggetter,Facebook
+711,47694,1,leggetter,Twitter
+712,47694,17,leggetter,Foursquare
+713,47694,331,leggetter,Pusher
+714,47694,22217,leggetter,Xignite Realtime
+715,47694,57,leggetter,Bit.ly
+716,47694,21167,leggetter,Beacon Push
+717,47694,20901,leggetter,DataSift REST
+718,47694,524,leggetter,Superfeedr
+719,47694,1515,leggetter,Kwwika
+720,47695,209,francisdb,The Movie Database (TMDb)
+721,47695,20430,francisdb,Quantone
+722,47701,214,vineet,Daylife
+723,47710,19228,trcull,FAA Airport Service
+724,47710,141,trcull,NOAA National Weather Service (NWS) NDFD SOAP
+725,47710,659,trcull,NOAA Climate Data Online
+726,47710,19148,trcull,Navlost NWX Weather
+727,47710,1282,trcull,National Weather Service NDFD
+728,47713,239,haz,BuzzData
+729,47714,239,anthonynonso,BuzzData
+730,47715,16848,Cino74,VegGuide
+731,47716,293,jesuino,IVA Video 
+732,47718,257,defro,Fotolia
+733,47718,797,defro,Baby Names
+734,47718,15771,defro,WhoSampled
+735,47724,262,suzhoukada,Page2Images
+736,47725,515,applesElmi,Yahoo Fantasy Sports
+737,47733,30,alienspaces,LinkedIn
+738,47733,4,alienspaces,Facebook
+739,47733,1,alienspaces,Twitter
+740,47733,12,alienspaces,del.icio.us
+741,47733,148,alienspaces,Compete
+742,47733,69,alienspaces,FriendFeed
+743,47733,558,alienspaces,Google Safe Browsing
+744,47733,22463,alienspaces,EchoSign
+745,47733,202,alienspaces,Dapper
+746,47733,546,alienspaces,SimpleAPI
+747,47734,289,jimsinai,Eventbrite
+748,47739,734,TexInWien,Google Prediction
+749,47739,778,TexInWien,BatchBook
+750,47742,24,robinkeith,GeoNames
+751,47742,723,robinkeith,MapQuest Geocoding
+752,47742,21037,robinkeith,CloudMade Geocoding
+753,47742,20447,robinkeith,Data Science Toolkit
+754,47742,16323,robinkeith,PostCoder
+755,47742,21282,robinkeith,OpenAddresses GeoLocated Address Search
+756,47742,17792,robinkeith,Simply Postcode
+757,47742,340,robinkeith,Maponics
+758,47742,22409,robinkeith,UK Postcodes
+759,47742,18028,robinkeith,MapIt UK
+760,47754,337,kavoreo,Rezgo
+761,47756,341,stephenyeargin,TripIt
+762,47756,1265,stephenyeargin,XML Team FlexSport
+763,47760,537,avive,Livekick
+764,47762,353,denistn,Scribd Platform
+765,47762,544,denistn,Scribd iPaper
+766,47774,20300,synosoft,StorageRoom
+767,47777,397,ifixit,iFixit
+768,47780,741,ericskiff,Google Storage
+769,47780,21281,ericskiff,Google Moderator
+770,47780,21618,ericskiff,Iron Mountain Policy Center
+771,47780,416,ericskiff,Drop.io
+772,47780,21670,ericskiff,Mezeo
+773,47780,22221,ericskiff,Nirvanix
+774,47786,435,Floppy,AMEE
+775,47795,10179,mesagh,Clash of Clans Developer 
+776,47795,464,mesagh,Telegram Bot
+777,47798,471,bitcoincheckout,Coinkite
+778,47799,471,bitcoinatm,Coinkite
+779,47801,474,feldon30,Daybreak Game Company Census
+780,47803,4493,IS_dan,Impossible Software Render
+781,47807,489,pj4533,Library of Congress Prints & Photographs
+782,47818,1285,aaron2708,ReadSocial
+783,47820,724,edorcutt,Qwerly
+784,47820,508,edorcutt,Kynetx
+785,47821,184,niranga,Yahoo Travel
+786,47827,22018,fastcashier,BankVal International
+787,47828,22434,billomat,figo connect
+788,47828,216,billomat,Twick.it
+789,47828,1530,billomat,mite
+790,47828,521,billomat,billomat
+791,47831,531,walidarfaoui,Wolfram Alpha
+792,47832,536,morethanf1,Ergast
+793,47834,539,Molly Donohue,ShopStyle
+794,47837,545,barryhunter,Geograph
+795,47846,591,dthorpe,Looker
+796,47847,9778,BetTips365,JsonOdds
+797,47849,168,dwaynedmartin,Groupon
+798,47849,602,dwaynedmartin,Information Machine
+799,47852,494,info@allmyles.com,Amadeus
+800,47852,614,info@allmyles.com,Allmyles
+801,47852,967,info@allmyles.com,Lufthansa Open
+802,47854,1137,zilyo,Airbnb 
+803,47854,992,zilyo,Zilyo Vacation Rental
+804,47860,634,subdb,SubDB
+805,47862,653,RobertGuler,AmeriCommerce
+806,47868,187,hawaiianchimp,OpenWeatherMap
+807,47868,264,hawaiianchimp,Edmunds.com Vehicle
+808,47868,15380,hawaiianchimp,City Rewards Network
+809,47870,21988,pricespin,ShopWindow
+810,47870,694,pricespin,PriceSpin
+811,47871,1735,jabanaki,Nozbe
+812,47871,129,jabanaki,Basecamp
+813,47871,22028,jabanaki,Lighthouse
+814,47871,1712,jabanaki,Harvest
+815,47871,1764,jabanaki,Toodledo
+816,47871,1780,jabanaki,Remember the Milk
+817,47871,1787,jabanaki,voo2do
+818,47871,22009,jabanaki,Vitalist
+819,47871,22021,jabanaki,Huddle
+820,47871,22249,jabanaki,gubb
+821,47873,24,sobadeveloper,GeoNames
+822,47873,982,sobadeveloper,Artsy
+823,47873,643,sobadeveloper,LocalSchoolDirectory
+824,47873,22452,sobadeveloper,Education.com
+825,47874,702,hanyigel,Petfinder
+826,47875,1546,vmarsh,AccuWeather
+827,47875,141,vmarsh,NOAA National Weather Service (NWS) NDFD SOAP
+828,47875,21128,vmarsh,Foreca Weather
+829,47875,172,vmarsh,Weather Underground (Wunderground)
+830,47875,21746,vmarsh,3TIER
+831,47875,19548,vmarsh,Met Office WOW
+832,47875,534,vmarsh,Norway Weather
+833,47875,1770,vmarsh,InnerGears Weather by City
+834,47875,19725,vmarsh,NOAA MADIS
+835,47875,21198,vmarsh,Marine/Surfing Weather
+836,47876,706,jooniyo,Facebook Chat
+837,47877,713,josue8a7,SHOUTcast Radio
+838,47882,1196,mirkoagrati,App.net
+839,47883,753,infosniper,Infosniper.net
+840,47886,768,jamesmills,Tesco
+841,47892,788,artbeat,ArtBeat
+842,47893,801,dalehurley,Australian Business Number Lookup
+843,47903,858,maayanhirshson,Interfax
+844,47907,877,kartik.shenoy,Mera Caar
+845,47908,879,curtisgetz,MAAS2
+846,47908,921,curtisgetz,NASA Mars Rover Photos
+847,47911,901,UnQLiteVedis,Pixlab
+848,47916,933,shahidashraf,GETHealth
+849,47917,942,loonis,Pyton Flight Portal
+850,47918,949,voucherify,Voucherify
+851,47919,965,dhotson,99designs Tasks
+852,47921,974,windshieldrepairtech,WindshieldRepair Tech Auto Glass
+853,47923,995,rubycuts,Grabicon
+854,47924,1004,TimeExtAPI,Time Extractor
+855,47927,1017,cbix,Canadian Bitcoin Index
+856,47932,1023,s3bubble,S3Bubble
+857,47934,22401,e9t,AlchemyAPI
+858,47934,1052,e9t,Team POPONG POODL
+859,47935,1057,beebotte,Beebotte
+860,47936,16640,KnowCaptcha,Death By CAPTCHA
+861,47944,1106,ugwigr,Thinknum
+862,47947,11457,landedcost.io,LandedCost.io (Duty and Taxes) Calculator
+863,47957,1195,siemvaessen,OIPA: Openaid IATI
+864,47959,1464,beaugunderson,Quora
+865,47959,16896,beaugunderson,23andMe
+866,47959,1211,beaugunderson,Singly
+867,47960,1221,greyu08,Worksnaps
+868,47962,1226,ascheink,Huffington Post Pollster
+869,47964,1255,mydigitalstructure,mydigitalstructure
+870,47965,21945,banaii,random.org
+871,47966,1268,billyattarpipl,Pipl
+872,47967,1270,puravidaapps,Aden Forshaw&#039;s The Cat
+873,47970,1304,geogratis,GeoGratis
+874,47973,30,portalix,LinkedIn
+875,47973,2,portalix,YouTube
+876,47973,83,portalix,Tumblr
+877,47973,86,portalix,MySpace
+878,47973,6,portalix,Twilio
+879,47973,61,portalix,Blogger
+880,47973,12,portalix,del.icio.us
+881,47973,144,portalix,GitHub
+882,47973,117,portalix,MailChimp
+883,47973,69,portalix,FriendFeed
+884,47979,1361,hhkaos,Idealista
+885,47979,22390,hhkaos,ESRI ArcGIS JavaScript
+886,47981,1378,frederichoule,SpamOn
+887,47988,15006,roschler,SimSimi Conversation
+888,47988,15024,roschler,Obituarydata.com
+889,47988,734,roschler,Google Prediction
+890,47988,16552,roschler,VerbalizeIt
+891,47988,15023,roschler,Dataseed
+892,47988,16384,roschler,Ockham Spell
+893,47988,16373,roschler,National Map Elevation Query
+894,47988,16386,roschler,FreeCite
+895,47988,15021,roschler,White House Policy Snapshots
+896,47988,15025,roschler,ZOWi
+897,47993,797,rohitghatol,Baby Names
+898,47993,1511,rohitghatol,AlternativeTo
+899,48001,84,rcavezza,Shopzilla
+900,48001,1124,rcavezza,StubHub
+901,48002,1594,lmaicher,Subj3ct
+902,48006,1654,vladimiroane,Context Voice
+903,48007,166,hummingbytes,Pinterest Domain
+904,48010,1685,ashishkumar9236,Cleartrip
+905,48011,1741,perilun,Open Patent Services
+906,48012,1707,openboxes,Doba SOAP
+907,48020,1953,ELCIES,ELCIES Connected Services
+908,48025,22397,darshan.patadiya,Limo Anywhere
+909,48026,22398,vpalukuru,Bank IFSC Code
+910,48036,113,Arudhran,Reddit
+911,48036,11,Arudhran,Microsoft Bing Maps
+912,48036,180,Arudhran,Trulia
+913,48036,220,Arudhran,Your Mapper
+914,48036,100,Arudhran,Google Fusion Tables
+915,48036,21743,Arudhran,Hospital Compare
+916,48036,22338,Arudhran,King County Busses
+917,48036,21913,Arudhran,RatePubs
+918,48036,19480,Arudhran,SendMe Mobile
+919,48036,22439,Arudhran,WMATA
+920,48041,17,Franck,Foursquare
+921,48041,330,Franck,Yellow
+922,48041,22459,Franck,Mappy
+923,48042,73,davidmcinnis,Zillow
