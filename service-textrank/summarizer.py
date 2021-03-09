@@ -135,7 +135,7 @@ def summarize(text, ratio=0.2, cid=None, words=None, language="english", split=F
     # Ranks the tokens using the PageRank algorithm. Returns dict of sentence -> score
     pagerank_scores = _pagerank(graph)
     if cid is not None:
-        with open('dicword.pkl', 'rb') as f:
+        with open('./summa/dicword.pkl', 'rb') as f:
             dic = pickle.load(f)
         corew = set([])
         for c in cid:
