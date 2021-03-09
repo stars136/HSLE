@@ -20,3 +20,5 @@ ProgrammableWeb.com在2020年1月1日之前的数据<br>
 9. usr-api.csv Developer-API边<br>
 10. usr-dms.csv Developer-(develop)Mashup边<br>
 11. usr-fms.csv Developer-(follow)Mashup边<br>
+12. api-info-all1.csv api functional description<br>
+13. ms-info-all1.csv mashup functional description<br>
