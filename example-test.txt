@@ -1,7 +1,7 @@
 华为 XH321 V5 系列服务器，配置为2个CPU节点，每个进程占用8个CPU核心。
 操作系统CentOS 7.6
 
-run:
+run1:
 python nocnet-try.py = python nocnet-try.py -t 60 -s 1 -p 0.03
 默认参数，表示使用2011年上半年为测试集，训练集为2010年整1年数据，欠采样比例0.03
 
@@ -11,26 +11,29 @@ Using backend: pytorch
 train api: 2603 train ms: 883
 Mask Count: 70554 has edge: [2080]
 GNN Epoch 1 | Train Loss 0.1314 | AUC 0.9543 | Macro F1 0.7091
-GNN Epoch 11 | Train Loss 0.0336 | AUC 0.9967 | Macro F1 0.8300
-GNN Epoch 21 | Train Loss 0.0394 | AUC 0.9868 | Macro F1 0.7467
-GNN Epoch 31 | Train Loss 0.0605 | AUC 0.9730 | Macro F1 0.8586
-GNN Epoch 41 | Train Loss 0.0390 | AUC 0.9950 | Macro F1 0.9269
-GNN Epoch 51 | Train Loss 0.0348 | AUC 0.9960 | Macro F1 0.8966
-GNN Epoch 61 | Train Loss 0.0649 | AUC 0.9845 | Macro F1 0.8266
-GNN Epoch 71 | Train Loss 0.0645 | AUC 0.9865 | Macro F1 0.7933
-GNN Epoch 81 | Train Loss 0.1119 | AUC 0.9618 | Macro F1 0.7189
-GNN Epoch 91 | Train Loss 0.0573 | AUC 0.9831 | Macro F1 0.8283
-GNN Epoch 101 | Train Loss 0.0519 | AUC 0.9932 | Macro F1 0.7933
-GNN Epoch 111 | Train Loss 0.0266 | AUC 0.9978 | Macro F1 0.8300
-GNN Epoch 121 | Train Loss 0.0264 | AUC 0.9973 | Macro F1 0.9428
-GNN Epoch 131 | Train Loss 0.0516 | AUC 0.9812 | Macro F1 0.8717
-GNN Epoch 141 | Train Loss 0.0365 | AUC 0.9973 | Macro F1 0.9428
-GNN Epoch 151 | Train Loss 0.0757 | AUC 0.9906 | Macro F1 0.7643
-GNN Epoch 161 | Train Loss 0.0501 | AUC 0.9967 | Macro F1 0.8300
-GNN Epoch 171 | Train Loss 0.0353 | AUC 0.9912 | Macro F1 0.8300
-GNN Epoch 181 | Train Loss 0.0610 | AUC 0.9854 | Macro F1 0.7433
-GNN Epoch 191 | Train Loss 0.0600 | AUC 0.9913 | Macro F1 0.7933
+GNN Epoch 11 | Train Loss 0.1119 | AUC 0.9618 | Macro F1 0.7189
+GNN Epoch 21 | Train Loss 0.0605 | AUC 0.9730 | Macro F1 0.8586
+GNN Epoch 31 | Train Loss 0.0649 | AUC 0.9845 | Macro F1 0.8266
+GNN Epoch 41 | Train Loss 0.0645 | AUC 0.9865 | Macro F1 0.7933
+GNN Epoch 51 | Train Loss 0.0633 | AUC 0.9722 | Macro F1 0.8266
+GNN Epoch 61 | Train Loss 0.0516 | AUC 0.9812 | Macro F1 0.8717
+GNN Epoch 71 | Train Loss 0.0757 | AUC 0.9906 | Macro F1 0.7643
+GNN Epoch 81 | Train Loss 0.0501 | AUC 0.9967 | Macro F1 0.8300
+GNN Epoch 91 | Train Loss 0.0610 | AUC 0.9854 | Macro F1 0.7433
+GNN Epoch 101 | Train Loss 0.0600 | AUC 0.9913 | Macro F1 0.7933
+GNN Epoch 111 | Train Loss 0.0353 | AUC 0.9912 | Macro F1 0.8300
+GNN Epoch 121 | Train Loss 0.0365 | AUC 0.9973 | Macro F1 0.9428
+GNN Epoch 131 | Train Loss 0.0390 | AUC 0.9950 | Macro F1 0.9269
+GNN Epoch 141 | Train Loss 0.0264 | AUC 0.9973 | Macro F1 0.9428
+GNN Epoch 151 | Train Loss 0.0348 | AUC 0.9960 | Macro F1 0.8966
+GNN Epoch 161 | Train Loss 0.0266 | AUC 0.9978 | Macro F1 0.8300
+GNN Epoch 171 | Train Loss 0.0336 | AUC 0.9967 | Macro F1 0.8300
+GNN Epoch 181 | Train Loss 0.0394 | AUC 0.9868 | Macro F1 0.7467
+GNN Epoch 191 | Train Loss 0.0378 | AUC 0.9813 | Macro F1 0.8586
 test api: 3331 test ms: 410
 GNN Test BCE 0.0085 | AUC 0.9887 | Macro F1 0.6195
 totally cost 7013.206817865372
 
+run2:
+python nocnet-word.py = python nocnet-word.py -t 12 -p 0.03 -w 150
+默认参数，表示使用2011年上半年为测试集，训练集为2010年整1年数据，摘要长度为150，欠采样比例0.03
