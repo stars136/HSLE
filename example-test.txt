@@ -7,9 +7,9 @@ python nocnet-try.py = python nocnet-try.py -t 64 -s 1 -p 0.03
 
 output：
 Using backend: pytorch
-{'time': 60, 'span': 1, 'savep': 0.03}
-train api: 2603 train ms: 883
-Mask Count: 70554 has edge: [2080]
+{'time': 64, 'span': 1, 'savep': 0.03}
+train api: 3117 train ms: 901
+Mask Count: 86189 has edge: [2054]
 GNN Epoch 1 | Train Loss 0.1314 | AUC 0.9543 | Macro F1 0.7091
 GNN Epoch 11 | Train Loss 0.1119 | AUC 0.9618 | Macro F1 0.7189
 GNN Epoch 21 | Train Loss 0.0605 | AUC 0.9730 | Macro F1 0.8586
@@ -30,7 +30,7 @@ GNN Epoch 161 | Train Loss 0.0266 | AUC 0.9978 | Macro F1 0.8300
 GNN Epoch 171 | Train Loss 0.0336 | AUC 0.9967 | Macro F1 0.8300
 GNN Epoch 181 | Train Loss 0.0394 | AUC 0.9868 | Macro F1 0.7467
 GNN Epoch 191 | Train Loss 0.0378 | AUC 0.9813 | Macro F1 0.8586
-test api: 3331 test ms: 410
+test api: 4861 test ms: 640
 GNN Test BCE 0.0085 | AUC 0.9887 | Macro F1 0.6195
 totally cost 7013.206817865372
 
