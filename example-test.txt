@@ -2,8 +2,8 @@
 操作系统CentOS 7.6
 
 run1:
-python nocnet-try.py = python nocnet-try.py -t 60 -s 1 -p 0.03
-默认参数，表示使用2011年上半年为测试集，训练集为2010年整1年数据，欠采样比例0.03
+python nocnet-try.py = python nocnet-try.py -t 64 -s 1 -p 0.03
+默认参数，表示使用2011年4-12月为测试集，训练集为2010年4月-2011年3月整1年数据，欠采样比例0.03
 
 output：
 Using backend: pytorch
@@ -36,4 +36,4 @@ totally cost 7013.206817865372
 
 run2:
 python nocnet-word.py = python nocnet-word.py -t 12 -p 0.03 -w 150
-默认参数，表示使用2011年上半年为测试集，训练集为2010年整1年数据，摘要长度为150，欠采样比例0.03
+默认参数，表示使用2011年4-12月为测试集，训练集为2010年4月-2011年3月整1年数据，欠采样比例0.03，摘要长度为150
