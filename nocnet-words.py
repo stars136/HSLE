@@ -345,11 +345,11 @@ def chooseTrainNode(time):
 
     ms_train = []
     for i in range(ms_time.shape[0]):
-        if 60-time < int(ms_time['time'][i]) <= 60:
+        if 60-time < int(ms_time['time'][i]) <= 64:
             ms_train.append(i)
     api_train = []
     for i in range(api_time.shape[0]):
-        if int(api_time['time'][i]) <= 66:
+        if int(api_time['time'][i]) <= 70:
             api_train.append(i)
 
     return api_train, ms_train
@@ -361,11 +361,11 @@ def chooseTestNode(time):
 
     ms_test = []
     for i in range(ms_time.shape[0]):
-        if time < int(ms_time['time'][i]) <= time + 6:
+        if time < int(ms_time['time'][i]) <= time + 9:
             ms_test.append(i)
     api_test = []
     for i in range(api_time.shape[0]):
-        if int(api_time['time'][i]) <= time + 6:#0 < 
+        if int(api_time['time'][i]) <= time + 9:#0 < 
             api_test.append(i)
 
     return api_test, ms_test
@@ -626,7 +626,7 @@ if __name__ == '__main__':
     #以2006年1月1日为0，每个月时间段+1
     parser.add_argument('-t', '--time', type=int, default=12,
                         help='Train data until time.')
-    # 目前测试集默认为2011年1-6月
+    # 目前测试集默认为2011年4-12月
     parser.add_argument('-w', '--words', type=int, default=150,
                         help='Train text save.')
     parser.add_argument('-p', '--savep', type=float, default=0.02,
