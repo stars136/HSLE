@@ -2,7 +2,7 @@
 操作系统CentOS 7.6
 
 run1:
-python nocnet-try.py = python nocnet-try.py -t 64 -s 1 -p 0.03
+python nocnet.py = python nocnet.py -t 64 -s 1 -p 0.03
 默认参数，表示使用2011年4-12月为测试集，训练集为2010年4月-2011年3月整1年数据，欠采样比例0.03
 
 output：
