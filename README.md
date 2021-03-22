@@ -4,8 +4,8 @@ Experiment using programmableweb.com data.<br>
 Runs on windows and linux, no GPU required.<br>
 
 #### Dependent package：
-argparse,random,pickle,time,re
-pandas,numpy,sparse,torch,dgl,sklearn
+argparse, random, pickle, time, re
+pandas, numpy, sparse, torch, dgl, sklearn
 
 #### Description 
 1. datao -- data file 
